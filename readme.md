@@ -24,7 +24,9 @@ Core directories:
 
 ## Data Resources
 
-All hosted resources are under: <https://www.modelscope.cn/collections/yooweey/LaMoFCBench>
+All hosted resources are under: <https://www.modelscope.cn/collections/yooweey/LaMoFCBench>.  
+> A Hugging Face backup is also provided at <https://huggingface.co/collections/Yoweey/lamofcbench>
+> It is automatically transferred from ModelScope via scripts, so ModelScope should be regarded as the authoritative and most up-to-date source.
 
 Main datasets:
 - Raw datasets: <https://www.modelscope.cn/datasets/yooweey/FeatureCoding-RawDatasets>
